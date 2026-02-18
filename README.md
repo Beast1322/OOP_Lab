@@ -1,3 +1,3 @@
 # OOP_Lab
 This is a oop lab respository
-My name is Zain
+My name is Zain Islam
